@@ -1,0 +1,12 @@
+[SETTINGS]
+
+start	2
+#scene list
+
+[SCENES]
+
+1	main_scence.txt
+2	scence2.txt
+
+3	scence3.txt
+

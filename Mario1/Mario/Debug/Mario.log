@@ -1,0 +1,22 @@
+﻿  PlayScence.cpp
+E:\Khoa\bt\phát triển game\Mario1\Mario\GameObject.h(66,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\GameObject.h(66,82): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\GameObject.h(70,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\GameObject.h(70,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\gate.h(4,1): warning C4005: 'BRICK_BBOX_WIDTH': macro redefinition
+E:\Khoa\bt\phát triển game\Mario1\Mario\Brick.h(4): message : see previous definition of 'BRICK_BBOX_WIDTH'
+E:\Khoa\bt\phát triển game\Mario1\Mario\gate.h(5,1): warning C4005: 'BRICK_BBOX_HEIGHT': macro redefinition
+E:\Khoa\bt\phát triển game\Mario1\Mario\Brick.h(5): message : see previous definition of 'BRICK_BBOX_HEIGHT'
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(114,20): warning C4018: '<': signed/unsigned mismatch
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(137,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(138,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(159,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(159,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(164,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(164,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(167,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(168,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(263,20): warning C4018: '<': signed/unsigned mismatch
+E:\Khoa\bt\phát triển game\Mario1\Mario\PlayScence.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+  Mario.vcxproj -> E:\Khoa\bt\phát triển game\Mario1\Debug\Mario.exe
